@@ -1,0 +1,22 @@
+body {
+    background-color: #507580;
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+    background-color: #1A6A80;
+}
+
+h1 {
+    color: #54DAFF;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+button {
+    margin-left: 40%;
+
+}
