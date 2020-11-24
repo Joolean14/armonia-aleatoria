@@ -12,6 +12,6 @@ function randomGenerator() {
 
   notes = notes[Math.floor(Math.random() * notes.length)];
 
-  document.getElementById("answer").innerHTML = "Toca " + numberOfNotes + "  notas " + notes + scaleArpeggio + " " + direction + "y sigue conectando desde ahí.";
+  document.getElementById("answer").innerHTML = "Toca " + numberOfNotes + "  notas " + notes + scaleArpeggio + " " + direction + " y sigue conectando desde ahí.";
 
 }
